@@ -1,2 +1,2 @@
-# exerc-cioDH
+# exercicioDH
 Praticando comandos git
